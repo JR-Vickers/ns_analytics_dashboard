@@ -1,0 +1,12 @@
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+project_description.md
+plan.md
+job_description.png
